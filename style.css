@@ -1,0 +1,9 @@
+body {
+    color: cornflowerblue;  
+    background-color: darkslategrey; 
+   }
+   .heading {
+       width: 80%;
+       font-size: 22;
+       background-color: brown;
+   }
